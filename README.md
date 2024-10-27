@@ -1,6 +1,6 @@
 Hi there :shipit:
 
-Currently learning how to code and working on projects :nerd_face:
+Currently working on projects :nerd_face:
 
 
 <!--
